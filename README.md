@@ -35,3 +35,9 @@
 #### cd src
 #### nim c -d:release main.nim
 ### It will most likely take a little while to build, just be patient.
+### You will most likely end up with an executable file you can run on your computer.
+### To run from the commandline, you can give the executable file execute permissions, and simply run the game.
+
+#### copy and paste these commands to run the game
+#### chmod +x main
+#### ./main
