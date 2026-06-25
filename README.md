@@ -15,7 +15,7 @@
 #### You can simply copy and paste this command.
 #### mkdir Wizard-Of-Cards && cd Wizard-Of-Cards
 
-### Next, you must either clone the games repository once you inside of the directory, or, download the game's source code and assets directly from the github website.
+### Next, you must either clone the games repository once you are inside of the directory, or, download the game's source code and assets directly from the github website.
 ### If you can use git from the command line, and want to use git instead of manually downloading the zip, you can copy and paste this command.
 #### git clone https://github.com/OrangeTheWiz/Wizard-Of-Cards/
 ### If you downloaded the game with the git command from above can skip to Finilizing Build.
