@@ -12,9 +12,11 @@
 ### You will need the nim programming language, a binding of the raylib game library that the game uses called naylib, and of course, the game's source code and assets.
 
 ### Create a directory or folder called Wizard-Of-Cards and cd into it.
-
+#### You can simply copy and paste this command.
 #### mkdir Wizard-Of-Cards && cd Wizard-Of-Cards
 
 ### Next, you must either clone the games repository once you inside of the directory, or, download the game's source code and assets directly from the github website.
+### If you can use git from the command line, and want to use git instead of manually downloading the zip, you can copy and paste this command.
+#### git clone https://github.com/OrangeTheWiz/Wizard-Of-Cards/
 ### You can download the game's source and assets by clicking the green code button in the top right area of the Wizard-Of-Cards repository.
 ### Then you must unzip the games code, optionally delete the zip, and finally, put the folder you got from unzipping the zip into the Wizard-Of-Cards directory from earlier.
