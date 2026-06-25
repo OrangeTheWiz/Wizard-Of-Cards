@@ -26,7 +26,7 @@
 ### At this point, you will be in a directory called Wizard-Of-Cards and will have a directory inside of Wizard-Of-Cards also called Wizard-Of-Cards.
 ### cd into that directory with this command.
 ### cd Wizard-Of-Cards
-### By now, you should have naylib installed to be able to build the game.
+### Now you should install naylib. It is required to build the game.
 ### To install naylib copy and paste this command
 #### nimble install naylib
 ### If you could not install nimble or if more build instructions below did not work, try this command.
