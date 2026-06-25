@@ -11,7 +11,6 @@
 ## Building
 ### You will need the nim programming language, a binding of the raylib game library that the game uses called naylib, and of course, the game's source code and assets.
 
-## Step one to building
 ### Create a directory or folder called Wizard-Of-Cards and cd into it.
 
 #### mkdir Wizard-Of-Cards && cd Wizard-Of-Cards
