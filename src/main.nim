@@ -46,6 +46,16 @@ proc main() =
       echo x
       echo y
     for i in tiles:
+      var checkX = (250 + (i.x.int32() / 2).int32 - (i.y.int32() / 2).int32)
+      var checkY = (i.y.int32() / 5).int32 + (i.x / 5).int32
+      if checkX < -50:
+        continue
+      if checkX > 550:
+        continue
+      if checkY < -50:
+        continue
+      if checkY > 550:
+        continue
       drawTexture(ground, 250 + (i.x.int32() / 2).int32 - (i.y.int32() / 2).int32,(i.y.int32() / 5).int32 + (i.x.int32() / 5).int32, WHITE)
       var tilerect = Rectangle(x: i.x.toFloat, y: i.y.toFloat, width: 50, height: 50)
 
