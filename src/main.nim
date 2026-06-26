@@ -61,7 +61,7 @@ proc main() =
 
 
     drawTexture(ground, x.int32(), y.int32(), WHITE)
-    drawText($getFps(), 0, 0, 25, WHITE)
+    drawText("FPS: " & $getFps(), 0, 0, 25, WHITE)
     endDrawing()
 
 
